@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 import pandas as pd
-import sklearn
+import scikit-learn
 
 teams = ['Mumbai Indians', 'Royal Challengers Bangalore',
        'Lucknow Super Giants', 'Kolkata Knight Riders',
